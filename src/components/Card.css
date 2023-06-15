@@ -1,0 +1,14 @@
+.Card {
+    text-align: center;
+    background-color: gray;
+    color: white;
+    border-radius: 10px;
+    margin: 10px;
+    width: 15rem;
+    padding: 5px;
+}
+
+img {
+    border: 3px solid gray;
+    padding: 3px;
+}
